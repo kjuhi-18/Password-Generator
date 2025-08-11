@@ -47,4 +47,4 @@ Do not share your passwords publicly.
 For critical applications, always follow best security practices.
 
 📜 License
-This project is licensed under the MIT License — feel free to modify and share.
+This project is licensed under the UNILICENSE License — feel free to modify and share.
