@@ -15,8 +15,11 @@ A secure, customizable password generator in Python to create strong, random pas
 
 📸 Demo
 How many characters do you want in your password?: 12
+
 Strong Password: L8&kUq@1dZ#
+
 🛠 How It Works
+
 User enters the desired password length (must be ≥ 8).
 
 Script picks:
