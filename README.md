@@ -2,6 +2,7 @@
 A secure, customizable password generator in Python to create strong, random passwords for enhanced security.
 
 ✨ Features
+
 ✅ Generates random & secure passwords
 
 ✅ Supports lowercase, uppercase, digits & symbols
