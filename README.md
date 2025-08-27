@@ -3,10 +3,15 @@ A secure, customizable password generator in Python to create strong, random pas
 
 ✨ Features
 ✅ Generates random & secure passwords
+
 ✅ Supports lowercase, uppercase, digits & symbols
+
 ✅ Customizable length (minimum 8 characters)
+
 ✅ Shuffled to avoid predictable patterns
+
 ✅ Lightweight — uses only Python standard library
+
 
 📸 Demo
 How many characters do you want in your password?: 12
